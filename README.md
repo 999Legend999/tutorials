@@ -1,1 +1,2 @@
-##  This project is about frogs
+##  This project is about Dogs
+
